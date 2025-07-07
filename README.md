@@ -48,7 +48,7 @@ This tool was developed while working at ICAR-INDIAN INSTITUTE OF SOIL SCIENCE a
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/soilspectra-ml.git
+git clone https://github.com/arti-rajput/MIDAS.git
 cd soilspectra-ml
 
 # Install dependencies
